@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "id": "1",
+      "taskId": "1",
+      "correctAnswerId": "1"
+    },
+    {
+      "id": "2",
+      "taskId": "2",
+      "correctAnswerId": "4"
+    },
+    {
+      "id": "3",
+      "taskId": "3",
+      "correctAnswerId": "2"
+    }
+  ]
+}
